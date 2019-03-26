@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 0,
+    "title" : "Pez Cirujano",
+    "weight" : 6,
+	"value" : 5,
+	"description" : "Posee un cuerpo comprimido en sus laterales, de un color azul intenso con dos rayas negras bien definidas que lo cruzan. Además, posee una aleta caudal pigmentada con una fuerte tonalidad amarilla.",
+	"slug" : "pez_cirujano",
+	"stackable" : true
+  },
+  {
+    "id" : 1,
+    "title" : "Pez Globo",
+    "weight" : 20,
+	"value" : 15,
+	"description" : "utiliza su elastico estomago y su capacidad de ingerir rapidamente grandes cantidades de agua para que se convierta en una bola practicamente increible que dobla varias veces su tamaño normal.",
+	"slug" : "pez_globo",
+	"stackable" : true
+  },
+  {
+    "id" : 2,
+    "title" : "Anguila",
+    "weight" : 15,
+	"value" : 10,
+	"description" : "La piel de las anguilas, cubierta de mucosidad, se puede mantener humeda durante un tiempo fuera del agua. Esto permite que puedan respirar a través de la piel y desplazarse por tierra, si les es necesario.",
+	"slug" : "anguila",
+	"stackable" : true
+
+  }
+]
